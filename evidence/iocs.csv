@@ -1,0 +1,5 @@
+ioc_type,value,context
+domain,invoices-secure[.]com,Sender domain of phishing email
+ip,192.0.2.45,C2 server IP attempting connection
+sha256,3f7b1a2c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a,Malware payload hash
+filename,Invoice_Q3.xlsm,Phishing attachment
